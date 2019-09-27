@@ -19,9 +19,9 @@
 		text-transform: capitalize
 			
 	.main-content
+		width: 100%
 		padding: 0px 50px
 		display: flex
-		align-items: center
 		flex-direction: column
 		@media screen and (max-width: 480px)
 			padding: 0px 10px
